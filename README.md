@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-💫 About Me:
-Backend Engineer based in Italy with over 3 years of experience building and supporting backend systems in production.
+I'm a full stack engineer (with focus on backend) based in Italy with over 3 years of experience building and supporting backend systems in production.
 
 I mostly work with Java (Spring Boot) and Oracle (SQL/PL/SQL), and I enjoy turning business requirements into clean, reliable backend services.
 
